@@ -23,7 +23,6 @@ Developed by: Roop Sagar S L
 
 RegisterNumber:  212223040175
 ```
-/*
 import numpy as np
 import matplotlib.pyplot as plt
 X=np.array(eval(input()))
@@ -46,7 +45,7 @@ print(Y_pred)
 plt.scatter(X,Y,color='blue')
 plt.plot(X,Y_pred,color='yellow') 
 plt.show()
-*/
+
 ```
 
 ## Output:
